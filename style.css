@@ -12,6 +12,12 @@ padding: 30px 0;
 text-align:center;
 color: white;
 }
+footer{
+  background: black;
+  padding: 30px 0;
+  text-align: left;
+  color: white;
+}
 
 nav ul
 {
